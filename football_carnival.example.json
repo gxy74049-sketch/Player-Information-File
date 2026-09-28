@@ -1,0 +1,38 @@
+{
+  "persons": {
+    "EXAMPLE001": {
+      "name": "示例球员甲",
+      "gender": "男",
+      "grade": "2026级",
+      "phone": ""
+    },
+    "EXAMPLE002": {
+      "name": "示例球员乙",
+      "gender": "女",
+      "grade": "2026级",
+      "phone": ""
+    }
+  },
+  "teams": {
+    "示例队": {
+      "leader": "EXAMPLE001",
+      "members": {
+        "EXAMPLE001": "A",
+        "EXAMPLE002": "B"
+      }
+    }
+  },
+  "matches": [],
+  "roles": {
+    "ref_team": [],
+    "ref_event": [],
+    "manager": [],
+    "audience": []
+  },
+  "signins": [],
+  "awards": {
+    "team": {"champion": "", "runner_up": "", "third": ""},
+    "player": {"mvp": "", "golden_boot": ""}
+  }
+}
+
