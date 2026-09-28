@@ -1,0 +1,20 @@
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime and recovery files
+*.tmp
+*.corrupt_*
+football_carnival.json
+football_carnival.json.previous
+football_carnival_backup_*.json
+
+# Unrelated local draft
+pelican_bike.html
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
